@@ -1,0 +1,5 @@
+description = "Slices: efficient immutable subarrays"
+requires = "stdcompat"
+version = "1"
+archive(byte) = "slices.cma"
+archive(native) = "slices.cmxa"

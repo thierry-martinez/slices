@@ -1,0 +1,16 @@
+.depend
+*.cm[aiotx]
+*.cmti
+*.cmx[as]
+*.[ao]
+*~
+/Makefile
+/Makefile.in
+autom4te.cache
+aclocal.m4
+config.status
+config.log
+/configure
+/slices_test
+/sliceS.doc.ml
+/doc
